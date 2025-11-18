@@ -1,0 +1,1 @@
+FLOCSoft is the home of various packages part of the FLOCs ecosystem. It has outgrown its original form of simply being container recipes, into providing more advanced functionality for e.g. running pipelines. This organisation will house all the sub-features under a single denominator.
